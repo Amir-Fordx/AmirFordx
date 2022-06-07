@@ -1,16 +1,17 @@
 
 
-
+ 
 <!---
 amiroxford/amiroxford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ 
 </div>
-
-# OXFORD
-
-- 👋 Hi, I’m amir       <img src="https://media.discordapp.net/attachments/983572623625683035/983612633439678514/981608135393427466.gif"  width="50px" height="50px" >
-- 🌱 I’m currently learning ...    <img src="https://media.discordapp.net/attachments/983572623625683035/983612697889357914/880521818090377316.webp"  width="45px" height="45px" >
+<div align="center">
+<h2>Hi I'm amir  <img src="https://media.discordapp.net/attachments/983572623625683035/983612633439678514/981608135393427466.gif"  width="50px" height="50px" >
+  </div>
+    
+- 🌱 I’m currently learning l javascript <img src="https://media.discordapp.net/attachments/983572623625683035/983612697889357914/880521818090377316.webp"  width="45px" height="45px" >
 
 </div>
 

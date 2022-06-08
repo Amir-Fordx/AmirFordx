@@ -1,12 +1,12 @@
 
  
-<img src="https://media.discordapp.net/attachments/983572623625683035/983657150251405364/a_b712f19adbadc8a63b072f5039f46d0c.gif"  width="50px" height="400px" >
+<img src="https://media.discordapp.net/attachments/983572623625683035/983657150251405364/a_b712f19adbadc8a63b072f5039f46d0c.gif"  width="100px" height="400px" >
   
   ### About my
  
  
  - Hi I'm amir  <img src="https://media.discordapp.net/attachments/983572623625683035/983612633439678514/981608135393427466.gif"  width="35px" height="35px" >
- - 🌱 I’m currently learning l javascript <img src="https://media.discordapp.net/attachments/975980845242396762/983957544219344936/880102313061146624.gif"  width="35px" height="35px" > 
+ - 🌱 I’m currently learning l javascript <img src="https://media.discordapp.net/attachments/975980845242396762/983957544219344936/880102313061146624.gif"  width="30px" height="30px" >
 
 
 <div align="center">

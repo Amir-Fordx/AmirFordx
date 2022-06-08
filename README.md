@@ -5,8 +5,8 @@
   ### About my
  
  
- - Hi I'm amir  <img src="https://media.discordapp.net/attachments/983572623625683035/983612633439678514/981608135393427466.gif"  width="50px" height="50px" >
- - 🌱 I’m currently learning l javascript <img src="https://media.discordapp.net/attachments/983572623625683035/983612697889357914/880521818090377316.webp"  width="45px" height="45px" >
+ - Hi I'm amir  <img src="https://media.discordapp.net/attachments/983572623625683035/983612633439678514/981608135393427466.gif"  width="35px" height="35px" >
+ - 🌱 I’m currently learning l javascript <img src="https://media.discordapp.net/attachments/975980845242396762/983957544219344936/880102313061146624.gif"  width="35px" height="35px" > 
 
 
 <div align="center">

@@ -6,7 +6,7 @@
  
  
  - Hi I'm amir  <img src="https://media.discordapp.net/attachments/983572623625683035/983612633439678514/981608135393427466.gif"  width="35px" height="35px" >
- - 🌱 I’m currently learning l javascript & Python <img src="https://media.discordapp.net/attachments/975980845242396762/983957544219344936/880102313061146624.gif"  width="30px" height="30px" >
+ - 🌱 I’m currently learning l javascript <img src="https://media.discordapp.net/attachments/975980845242396762/983957544219344936/880102313061146624.gif"  width="30px" height="30px" >
 
 
 <div align="center">

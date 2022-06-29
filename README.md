@@ -1,6 +1,7 @@
 
- 
-<img src="https://media.discordapp.net/attachments/983572623625683035/983657150251405364/a_b712f19adbadc8a63b072f5039f46d0c.gif"  width="100px" height="400px" >
+<div align="center">
+<img width="100%" height = "250px" src="https://media.discordapp.net/attachments/962517715719974932/991568598827012096/a_6b52304b42935b26b44b33f40ecd7248.gif" alt="cover" />
+</div>
   
   ### About my
  

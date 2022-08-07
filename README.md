@@ -21,11 +21,9 @@
  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
- 
- 
- [![](https://open.spotify.com/playlist/3b3gT6NqB69AV6MVnPw5rO?si=2272bb60e2424531)](https://github.com/FORDX/spotify-recently-played-readme)
+\
 
  
   
-<img src="https://discord.c99.nl/widget/theme-4/995732193773101116.png" height="60px">
+
   

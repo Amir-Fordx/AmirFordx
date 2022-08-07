@@ -24,3 +24,5 @@
  
  
  [![](https://open.spotify.com/playlist/3b3gT6NqB69AV6MVnPw5rO?si=2272bb60e2424531)](https://github.com/FORDX/spotify-recently-played-readme)
+ 
+ <img src="https://discord.c99.nl/widget/theme-2/995732193773101116.png" >

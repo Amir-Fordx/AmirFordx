@@ -15,7 +15,8 @@
 <h3> &nbsp;My Tools and Languages </h3>
 
  
-[![Top Langs](https://github-readme-stats-bay-zeta-34.vercel.app/api/top-langs/?username=amiroxford&theme=omni)](https://github.com/amiroxford/github-readme-stats)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiroxford&layout=compact&theme=gruvbox_duo&bg_color=323540&hide_border=true&ring=5294E2&currStreakLabel=5294E2&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=5294E2&text_color=ffffff&count_private=true)
  
  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

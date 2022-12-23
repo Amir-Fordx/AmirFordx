@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<img src="https://discord.c99.nl/widget/theme-3/995732193773101116.png" align="center" height="110" width="500" /></br>
+<img src="https://discord.c99.nl/widget/theme-1/995732193773101116.png" align="center" height="110" width="500" /></br>
 <p>• MoonTeam</p>
 <div align="center">
 
@@ -23,7 +23,6 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiroxford&layout=compact&theme=gruvbox_duo&bg_color=323540&hide_border=true&ring=5294E2&currStreakLabel=5294E2&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=5294E2&text_color=ffffff&count_private=true)
  
  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 

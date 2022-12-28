@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<a href="https://www.instagram.com/amirfordx/"><img src="https://discord.c99.nl/widget/theme-1/995732193773101116.png" align="center" height="110" width="500" /></br>
+<a href="https://www.instagram.com/amirskadi/"><img src="https://discord.c99.nl/widget/theme-1/995732193773101116.png" align="center" height="110" width="500" /></br>
 
 
 <h3> &nbsp;My Tools and Languages </h3>

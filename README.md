@@ -6,18 +6,14 @@
   ### About my
  
  - Hi I'm amirskadi.  <img src="https://media.discordapp.net/attachments/983572623625683035/983612633439678514/981608135393427466.gif"  width="35px" height="35px" >
- - 🌱 I’m currently learning l javascript <img src="https://media.discordapp.net/attachments/975980845242396762/983957544219344936/880102313061146624.gif"  width="30px" height="30px" >
+ - 🌱 I’m currently learning l javascript <img src="https://media.discordapp.net/attachments/975980845242396762/983957544219344936/880102313061146624.gif"  width="30px" height="30px" > </br></br></br>
 
 
 <div align="center">
-<a href="https://www.instagram.com/amirskadi/"><img src="https://discord.c99.nl/widget/theme-1/995732193773101116.png" align="center" height="110" width="500" /></br>
+<a href="https://www.instagram.com/amirskadi/"><img src="https://discord.c99.nl/widget/theme-1/995732193773101116.png" align="center" height="110" width="500" /></br></br></br></br>
 
 
-<h3> &nbsp;My Tools and Languages </h3>
 
- 
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiroxford&layout=compact&theme=gruvbox_duo&bg_color=323540&hide_border=true&ring=5294E2&currStreakLabel=5294E2&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=5294E2&text_color=ffffff&count_private=true)
  
  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;

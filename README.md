@@ -14,17 +14,16 @@
 <div align="center">
 <a><img src="https://media.discordapp.net/attachments/995732606194815029/1067682357253001287/PicsArt_12-10-10.46.02.png" align="center" height="80" width="80" ></a></div></br>
 
-```
 
-          Discord Developer | Discord Configer
+<div align="center">
+  <h4>• Discord</h4></div>
+  
+<div align="center">
+  <h4>• Developer & Configer</h4></div>
+</br></br></br>
 
 
-```
-
-
-
-</br></br>
-
+----
  
 <div align="center">
   <h6>• social media</h6></div>

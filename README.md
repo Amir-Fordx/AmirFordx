@@ -14,10 +14,8 @@
 </div>
  
 <div align="center">
-  <h5>• social media</h5></div>
-  <br/><br/>
-
- ----
+  <h6>• social media</h6></div>
+  <br/><br/><br/>
  
 <div align="left">
 <a href="https://www.instagram.com/amirskadi"><img src="https://media.discordapp.net/attachments/1049406847314042930/1067231400354381954/instagram_1.png?width=406&height=406" align="left" height="80" style="width: 10%" ></a></div>
@@ -49,10 +47,10 @@
 ----
 
 <div align="center">
-<a> <img src="https://github-readme-stats.vercel.app/api?username=amirskadi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" align="center" ></a></div>
+<a> <img src="https://github-readme-stats.vercel.app/api?username=AmirSkadi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" align="center" ></a></div>
 <br/>
 <div align="center">
-<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirskadi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" align="center" height="150" style="width: 80%" ></a></div>
+<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSkadi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" align="center" height="150" style="width: 80%" ></a></div>
 <br/><br/><br/>
 
 

@@ -12,7 +12,18 @@
 
 
 <div align="center">
-<a><img src="https://media.discordapp.net/attachments/995732606194815029/1067682357253001287/PicsArt_12-10-10.46.02.png" align="center" height="80" width="80" ></a></div></br></br></br>
+<a><img src="https://media.discordapp.net/attachments/995732606194815029/1067682357253001287/PicsArt_12-10-10.46.02.png" align="center" height="80" width="80" ></a></div></br>
+
+```
+
+          Discord Developer | Discord Configer
+
+
+```
+
+
+
+</br></br>
 
  
 <div align="center">

@@ -28,11 +28,15 @@
 <br/>
 
 ----
-
+<br/>
 <div align="center">
-<a><img src="https://discord.c99.nl/widget/theme-1/995732193773101116.png" align="center" height="100" style="width: 42%" ><a/></div>
+<a><img src="https://discord.c99.nl/widget/theme-1/995732193773101116.png" align="center" height="100" style="width: 42%" ><a/></div><br/>
 
 ----
+    
+<div align="center">
+  <h6>• Language</h6></div>
+  <br/><br/><br/>
 
 <div align="left">
 <a><img src="https://media.discordapp.net/attachments/995732606194815029/1067229133429551144/css-3.png?width=406&height=406" align="left" height="50" style="width: 5%" ></a></div>
@@ -47,16 +51,8 @@
 ----
 
 <div align="center">
-<a> <img src="https://github-readme-stats.vercel.app/api?username=AmirSkadi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" align="center" ></a></div>
+<a> <img src="https://github-readme-stats.vercel.app/api?username=AmirSkadi&theme=dark" align="center" ></a></div>
 <br/>
 <div align="center">
 <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSkadi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" align="center" height="150" style="width: 80%" ></a></div>
 <br/><br/><br/>
-
-
-
-
- 
-  
- 
-  

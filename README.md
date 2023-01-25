@@ -19,7 +19,7 @@
   <h4>• Discord</h4></div>
   
 <div align="center">
-  <h4>• Developer & Configer</h4></div>
+  <h5> Developer & Configer</h5></div>
 </br></br></br>
 
 

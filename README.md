@@ -72,4 +72,4 @@
   
   
 <div align="center">
-<a><img src="https://media.discordapp.net/attachments/995732606194815029/1067682080005296208/cross.png?width=406&height=406" align="center" height="40" width="40" ></a></div>
+<a herf="https://en.wikipedia.org/wiki/Angel"><img src="https://media.discordapp.net/attachments/995732606194815029/1067682080005296208/cross.png?width=406&height=406" align="center" height="40" width="40" ></a></div>

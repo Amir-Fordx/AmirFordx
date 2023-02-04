@@ -12,7 +12,7 @@
 
 
 <div align="center">
-<a><img src="https://media.discordapp.net/attachments/995732606194815029/1067682357253001287/PicsArt_12-10-10.46.02.png" align="center" height="80" width="80" ></a></div></br>
+<a herf="https://www.instagram.com/amirskadi"><img src="https://media.discordapp.net/attachments/995732606194815029/1067682357253001287/PicsArt_12-10-10.46.02.png" align="center" height="80" width="80" ></a></div></br>
 
 
 <div align="center">
@@ -30,7 +30,7 @@
   <br/><br/><br/>
  
 <div align="left">
-<a href="https://www.instagram.com/amirskadi"><img src="https://media.discordapp.net/attachments/1049406847314042930/1067231400354381954/instagram_1.png?width=406&height=406" align="left" height="80" style="width: 10%" ></a></div>
+<a href=""><img src="https://media.discordapp.net/attachments/1049406847314042930/1067231400354381954/instagram_1.png?width=406&height=406" align="left" height="80" style="width: 10%" ></a></div>
 
 <div align="right">
 <a href="https://discord.gg/moonteam"><img src="https://media.discordapp.net/attachments/1049406847314042930/1067231399062536253/moon.png?width=406&height=406" align="right" height="80" style="width: 10%" ></a></div>

@@ -50,7 +50,7 @@
 <a> <img src="https://github-readme-stats.vercel.app/api?username=AmirSkadi&theme=dark" align="center" ></a></div>
 <br/><br/>
 <div align="center">
-<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSkadi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" align="center" height="150" style="width: 80%" ></a></div>
+<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSkadi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" align="center" height="250" style="width: 150%" ></a></div>
 <br/><br/><br/>
   
   

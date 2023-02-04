@@ -23,23 +23,7 @@
 </br></br></br>
 
 
-----
- 
-<div align="center">
-  <h6>• social media</h6></div>
-  <br/><br/><br/>
- 
-<div align="left">
-<a href=""><img src="https://media.discordapp.net/attachments/1049406847314042930/1067231400354381954/instagram_1.png?width=406&height=406" align="left" height="80" style="width: 10%" ></a></div>
 
-<div align="right">
-<a href="https://discord.gg/moonteam"><img src="https://media.discordapp.net/attachments/1049406847314042930/1067231399062536253/moon.png?width=406&height=406" align="right" height="80" style="width: 10%" ></a></div>
-
-<div align="center">
-<a href="mailto:skadiamir@gmail.com"><img src="https://media.discordapp.net/attachments/1049406847314042930/1067231399674904656/gmail-logo.png?width=406&height=406" align="center" height="80" style="width: 10%" ></a></div>
-<br/>
-
-----
 <br/>
 <div align="center">
 <a><img src="https://discord.c99.nl/widget/theme-1/995732193773101116.png" align="center" height="100" style="width: 42%" ><a/></div><br/>

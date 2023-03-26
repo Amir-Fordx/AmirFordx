@@ -16,10 +16,10 @@
 
 
 <div align="center">
-  <h4>Discord.js</h4></div>
+  <h4>Developer & Configer</h4></div>
   
 <div align="center">
-  <h6> Developer & Configer</h6></div>
+  <h6> Discord.js, Application, Web</h6></div>
 </br></br></br>
 
 

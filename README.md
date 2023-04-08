@@ -24,9 +24,6 @@
 
 
 
-<br/>
-<div align="center">
-<a><img src="https://discord.c99.nl/widget/theme-1/995732193773101116.png" align="center" height="100" style="width: 42%" ><a/></div><br/>
 
 ----
     
